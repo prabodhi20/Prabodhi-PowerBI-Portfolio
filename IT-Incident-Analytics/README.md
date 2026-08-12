@@ -120,28 +120,26 @@ Interactive drill-through page allowing users to investigate detailed incident r
 ---
 
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Executive Dashboard
 
-<img width="906" height="515" alt="Executive" src="https://github.com/user-attachments/assets/5824c766-789f-423c-8c3b-b2ed118955c7" />
+<img width="906" height="512" alt="Executive" src="https://github.com/user-attachments/assets/55aada8f-4dbe-40f6-914c-3b3a0171a3d0" />
 
+<img width="899" height="505" alt="Executive drill through" src="https://github.com/user-attachments/assets/1c44b94b-031e-43a3-9779-3277567d521c" />
 
 ### Application Dashboard
 
-<img width="903" height="512" alt="Application" src="https://github.com/user-attachments/assets/9897ffb7-0565-4efd-afed-d7cd85065b21" />
-
+<img width="906" height="511" alt="Application" src="https://github.com/user-attachments/assets/3fc4b6f8-934b-46d0-ab33-f82e5dc70c5b" />
 
 ### Workforce Dashboard
 
-<img width="909" height="516" alt="Workforce" src="https://github.com/user-attachments/assets/5e2d9713-dbce-4306-9f17-e9a4cbd9b8bb" />
-
+<img width="902" height="510" alt="Workforce" src="https://github.com/user-attachments/assets/da7a5e55-2158-428a-9d49-8dbddeba1642" />
 
 ### Incident Details (Drill-through)
 
-<img width="909" height="509" alt="Drill through_option" src="https://github.com/user-attachments/assets/2f098ce1-532d-4eda-b55b-e337dc7eb829" />
+<img width="906" height="511" alt="Drill through" src="https://github.com/user-attachments/assets/609082b2-366e-4302-b34f-1504caabee2a" />
 
-<img width="905" height="503" alt="drill through" src="https://github.com/user-attachments/assets/3726f450-3984-4199-91f7-216abf12b46e" />
 
 
 
