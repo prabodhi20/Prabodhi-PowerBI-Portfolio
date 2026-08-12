@@ -123,19 +123,19 @@ Interactive drill-through page allowing users to investigate detailed incident r
 ## 📸 Dashboard Preview
 
 ### Executive Dashboard
-
+https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/Executive.PNG
 
 
 ### Application Dashboard
 
-![Application Dashboard](Images/Application%20Dashboard.png)
+[![Application Dashboard](Images/Application%20Dashboard.png)](https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/Application.PNG)
 
 ### Workforce Dashboard
 
-![Workforce Dashboard](Images/Workforce%20Dashboard.png)
+[[![Workforce Dashboard](Images/Workforce%20Dashboard.png)](https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/Workforce.PNG)](https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/Workforce.PNG)
 
 ### Incident Details (Drill-through)
-
-![Incident Details](Images/Executive%20Dashboard_Dill%20through.png)
+https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/Drill%20through_option.png
+[![Incident Details](Images/Executive%20Dashboard_Dill%20through.png)](https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/drill%20through.PNG)
 
 
