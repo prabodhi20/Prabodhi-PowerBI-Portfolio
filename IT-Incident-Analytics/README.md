@@ -107,6 +107,8 @@ Interactive drill-through page allowing users to investigate detailed incident r
 6. Conditional formatting
 7. Dynamic insight text
 8. Operational reporting
+9. Star schema data model
+10. Dedicated Date table for time intelligence
 
 ---
 
