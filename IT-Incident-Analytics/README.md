@@ -2,13 +2,13 @@
 
 An interactive Power BI dashboard designed to monitor IT support operations, incident trends, SLA compliance, MTTR, application performance, and workforce utilization through actionable visual analytics.
 
-## 📌 Project Overview
+## Project Overview
 
 IT Incident Analytics is an enterprise-style reporting solution built using Power BI to transform raw ITSM incident data into meaningful operational insights. The report enables support managers, application support teams, and operations stakeholders to monitor service performance, identify operational bottlenecks, and investigate incidents through interactive dashboards.
 The project demonstrates practical implementation of Power BI, DAX, Power Query, data modeling, KPI reporting, and drill-through navigation in an IT support environment.
 
 
-## 🎯 Business Objective
+## Business Objective
 
 The dashboard helps answer critical operational questions such as:
 1. Which applications generate the highest number of incidents?
@@ -19,7 +19,7 @@ The dashboard helps answer critical operational questions such as:
 6. Which environments (Production/UAT/Development) generate more incidents?
 
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### Executive Dashboard
 
@@ -97,7 +97,7 @@ Interactive drill-through page allowing users to investigate detailed incident r
 
 ---
 
-## ⭐ Key Features
+## Key Features
 
 1. Multi-page interactive dashboard
 2. Executive, Application, and Workforce reporting
@@ -110,7 +110,7 @@ Interactive drill-through page allowing users to investigate detailed incident r
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 1. Power BI Desktop
 2. Power Query
@@ -123,19 +123,25 @@ Interactive drill-through page allowing users to investigate detailed incident r
 ## 📸 Dashboard Preview
 
 ### Executive Dashboard
-https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/Executive.PNG
+
+<img width="906" height="515" alt="Executive" src="https://github.com/user-attachments/assets/5824c766-789f-423c-8c3b-b2ed118955c7" />
 
 
 ### Application Dashboard
 
-[![Application Dashboard](Images/Application%20Dashboard.png)](https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/Application.PNG)
+<img width="903" height="512" alt="Application" src="https://github.com/user-attachments/assets/9897ffb7-0565-4efd-afed-d7cd85065b21" />
+
 
 ### Workforce Dashboard
 
-[[![Workforce Dashboard](Images/Workforce%20Dashboard.png)](https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/Workforce.PNG)](https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/Workforce.PNG)
+<img width="909" height="516" alt="Workforce" src="https://github.com/user-attachments/assets/5e2d9713-dbce-4306-9f17-e9a4cbd9b8bb" />
+
 
 ### Incident Details (Drill-through)
-https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/Drill%20through_option.png
-[![Incident Details](Images/Executive%20Dashboard_Dill%20through.png)](https://github.com/prabodhi20/Prabodhi-PowerBI-Portfolio/blob/main/IT-Incident-Analytics/drill%20through.PNG)
+
+<img width="909" height="509" alt="Drill through_option" src="https://github.com/user-attachments/assets/2f098ce1-532d-4eda-b55b-e337dc7eb829" />
+
+<img width="905" height="503" alt="drill through" src="https://github.com/user-attachments/assets/3726f450-3984-4199-91f7-216abf12b46e" />
+
 
 
