@@ -1,0 +1,151 @@
+Requester_id,customer_name,customer_email,region,customer_gender,subscription_type,language,preferred_contact_time,customer_segment
+REQ031,Patricia Smith,patricia.smith760@outlook.com,North America,Male,Free,French,Afternoon,Small Business
+REQ003,Patricia Williams,patricia.williams390@gmail.com,South America,Other,Premium,English,Afternoon,Small Business
+REQ076,William Anderson,william.anderson651@outlook.com,Europe,Female,Premium,French,Morning,Corporate
+REQ096,David Miller,david.miller672@icloud.com,Asia,Other,Enterprise,Spanish,Afternoon,Corporate
+REQ141,Robert Gonzalez,robert.gonzalez391@hotmail.com,Asia,Male,Enterprise,Spanish,Evening,Corporate
+REQ130,Thomas Smith,thomas.smith614@outlook.com,North America,Other,Enterprise,German,Afternoon,Corporate
+REQ116,Michael Martinez,michael.martinez409@company.com,North America,Other,Basic,Chinese,Afternoon,Corporate
+REQ030,Jessica Miller,jessica.miller553@yahoo.com,South America,Female,Free,German,Afternoon,Individual
+REQ115,William Anderson,william.anderson256@gmail.com,Europe,Female,Enterprise,Japanese,Night,Individual
+REQ041,Elizabeth Miller,elizabeth.miller992@gmail.com,Europe,Other,Free,Chinese,Morning,Individual
+REQ127,Susan Jackson,susan.jackson579@hotmail.com,Africa,Female,Enterprise,French,Afternoon,Individual
+REQ098,Linda Lopez,linda.lopez292@yahoo.com,Africa,Male,Premium,German,Evening,Individual
+REQ061,Susan Rodriguez,susan.rodriguez46@gmail.com,North America,Other,Basic,French,Afternoon,Corporate
+REQ021,Patricia Lopez,patricia.lopez799@hotmail.com,Africa,Female,Basic,French,Afternoon,Individual
+REQ108,Michael Gonzalez,michael.gonzalez337@outlook.com,Asia,Other,Premium,German,Afternoon,Individual
+REQ051,Susan Smith,susan.smith533@hotmail.com,Australia,Other,Enterprise,German,Morning,Small Business
+REQ140,Michael Wilson,michael.wilson805@hotmail.com,Asia,Other,Premium,English,Night,Corporate
+REQ129,Charles Miller,charles.miller736@company.com,Europe,Other,Enterprise,French,Night,Corporate
+REQ046,Thomas Wilson,thomas.wilson851@hotmail.com,South America,Male,Premium,Japanese,Afternoon,Individual
+REQ107,Susan Wilson,susan.wilson339@hotmail.com,South America,Female,Premium,German,Morning,Small Business
+REQ077,Richard Garcia,richard.garcia861@icloud.com,Europe,Female,Basic,English,Night,Corporate
+REQ099,Sarah Johnson,sarah.johnson975@outlook.com,Europe,Male,Enterprise,Japanese,Morning,Small Business
+REQ125,Patricia Jackson,patricia.jackson27@outlook.com,North America,Other,Free,German,Evening,Corporate
+REQ063,John Wilson,john.wilson181@company.com,Asia,Male,Free,Spanish,Night,Small Business
+REQ053,William Hernandez,william.hernandez287@hotmail.com,Australia,Male,Enterprise,French,Night,Corporate
+REQ090,Barbara Wilson,barbara.wilson764@hotmail.com,Asia,Other,Basic,French,Afternoon,Individual
+REQ070,Sarah Jones,sarah.jones281@gmail.com,South America,Female,Premium,Japanese,Morning,Individual
+REQ018,Charles Martinez,charles.martinez88@yahoo.com,South America,Female,Enterprise,Spanish,Afternoon,Corporate
+REQ131,Robert Garcia,robert.garcia3@icloud.com,Africa,Female,Free,Japanese,Afternoon,Individual
+REQ104,Robert Johnson,robert.johnson170@outlook.com,South America,Male,Free,Spanish,Night,Corporate
+REQ103,Joseph Rodriguez,joseph.rodriguez186@hotmail.com,Africa,Male,Premium,French,Morning,Corporate
+REQ114,James Moore,james.moore474@icloud.com,Asia,Male,Premium,Chinese,Night,Individual
+REQ004,Patricia Anderson,patricia.anderson970@gmail.com,South America,Male,Enterprise,French,Morning,Corporate
+REQ049,Elizabeth Jackson,elizabeth.jackson594@company.com,Australia,Female,Premium,German,Afternoon,Individual
+REQ016,John Taylor,john.taylor989@hotmail.com,South America,Other,Basic,Japanese,Night,Individual
+REQ121,Karen Williams,karen.williams241@company.com,North America,Female,Free,Chinese,Night,Corporate
+REQ015,Linda Thomas,linda.thomas935@hotmail.com,Africa,Male,Free,German,Morning,Small Business
+REQ149,Charles Lopez,charles.lopez589@outlook.com,Asia,Male,Premium,English,Evening,Individual
+REQ082,Elizabeth Hernandez,elizabeth.hernandez766@icloud.com,South America,Female,Premium,German,Morning,Corporate
+REQ145,Patricia Anderson,patricia.anderson378@company.com,Australia,Other,Basic,French,Night,Individual
+REQ095,Linda Moore,linda.moore139@icloud.com,Australia,Female,Free,English,Night,Individual
+REQ132,Patricia Anderson,patricia.anderson94@company.com,Europe,Other,Basic,French,Afternoon,Corporate
+REQ142,James Jones,james.jones16@outlook.com,Australia,Other,Free,Japanese,Morning,Small Business
+REQ109,Richard Wilson,richard.wilson703@gmail.com,Asia,Other,Premium,German,Night,Small Business
+REQ137,David Anderson,david.anderson409@icloud.com,North America,Male,Free,Japanese,Morning,Corporate
+REQ128,Elizabeth Lopez,elizabeth.lopez107@hotmail.com,North America,Female,Basic,Japanese,Evening,Small Business
+REQ069,James Garcia,james.garcia891@yahoo.com,South America,Male,Premium,French,Night,Small Business
+REQ055,Karen Anderson,karen.anderson425@outlook.com,South America,Other,Premium,French,Evening,Individual
+REQ084,Jessica Wilson,jessica.wilson180@yahoo.com,South America,Female,Free,French,Afternoon,Small Business
+REQ011,Barbara Williams,barbara.williams448@gmail.com,Europe,Male,Free,Spanish,Evening,Individual
+REQ029,Karen Jones,karen.jones779@company.com,Asia,Other,Premium,French,Night,Individual
+REQ143,Mary Lopez,mary.lopez852@outlook.com,Australia,Other,Free,Japanese,Morning,Corporate
+REQ038,Jennifer Johnson,jennifer.johnson254@company.com,South America,Female,Free,French,Morning,Corporate
+REQ026,John Lopez,john.lopez318@company.com,Africa,Other,Free,Spanish,Afternoon,Individual
+REQ088,Elizabeth Brown,elizabeth.brown520@hotmail.com,Europe,Other,Basic,Spanish,Afternoon,Small Business
+REQ097,Michael Lopez,michael.lopez695@hotmail.com,Australia,Female,Free,German,Afternoon,Individual
+REQ062,Linda Anderson,linda.anderson906@outlook.com,Asia,Male,Premium,Chinese,Morning,Individual
+REQ100,William Miller,william.miller856@yahoo.com,South America,Other,Enterprise,Chinese,Evening,Corporate
+REQ040,Susan Garcia,susan.garcia681@company.com,North America,Female,Premium,Chinese,Evening,Corporate
+REQ027,Joseph Thomas,joseph.thomas647@yahoo.com,Asia,Other,Enterprise,French,Morning,Small Business
+REQ014,Richard Anderson,richard.anderson917@icloud.com,North America,Other,Basic,Spanish,Night,Small Business
+REQ005,Mary Lopez,mary.lopez630@icloud.com,Australia,Female,Free,French,Evening,Individual
+REQ009,Charles Jones,charles.jones543@outlook.com,South America,Male,Premium,German,Afternoon,Individual
+REQ057,David Lopez,david.lopez727@gmail.com,Europe,Female,Free,Japanese,Night,Small Business
+REQ111,Susan Jackson,susan.jackson76@yahoo.com,Africa,Male,Basic,French,Evening,Small Business
+REQ067,Michael Moore,michael.moore282@yahoo.com,Africa,Other,Premium,Chinese,Morning,Corporate
+REQ092,Sarah Martinez,sarah.martinez658@outlook.com,South America,Female,Basic,Chinese,Morning,Individual
+REQ105,Joseph Brown,joseph.brown274@icloud.com,Asia,Other,Premium,Chinese,Night,Individual
+REQ058,Charles Lopez,charles.lopez50@gmail.com,Europe,Female,Premium,German,Night,Small Business
+REQ144,Karen Martin,karen.martin122@yahoo.com,Australia,Other,Free,French,Evening,Small Business
+REQ048,Karen Martinez,karen.martinez608@outlook.com,Asia,Other,Free,Spanish,Morning,Small Business
+REQ023,Jennifer Taylor,jennifer.taylor645@company.com,Asia,Male,Enterprise,Chinese,Evening,Corporate
+REQ035,Richard Hernandez,richard.hernandez980@yahoo.com,Europe,Female,Premium,Japanese,Evening,Individual
+REQ123,Charles Moore,charles.moore389@icloud.com,Africa,Other,Enterprise,Spanish,Afternoon,Corporate
+REQ094,Thomas Davis,thomas.davis654@yahoo.com,Europe,Other,Enterprise,Chinese,Morning,Small Business
+REQ064,Jennifer Johnson,jennifer.johnson857@icloud.com,South America,Other,Enterprise,Japanese,Afternoon,Corporate
+REQ091,David Martinez,david.martinez582@company.com,Africa,Male,Basic,Japanese,Morning,Corporate
+REQ044,Barbara Davis,barbara.davis64@company.com,Asia,Male,Basic,Japanese,Afternoon,Corporate
+REQ025,Karen Williams,karen.williams539@icloud.com,Europe,Other,Basic,German,Afternoon,Small Business
+REQ047,Joseph Jackson,joseph.jackson60@hotmail.com,North America,Female,Premium,Spanish,Afternoon,Small Business
+REQ039,Richard Anderson,richard.anderson891@icloud.com,Australia,Other,Basic,French,Afternoon,Individual
+REQ138,Patricia Johnson,patricia.johnson829@company.com,South America,Other,Free,Japanese,Evening,Corporate
+REQ083,David Davis,david.davis310@yahoo.com,South America,Female,Enterprise,Spanish,Afternoon,Corporate
+REQ134,John Anderson,john.anderson937@gmail.com,Asia,Male,Enterprise,English,Morning,Corporate
+REQ002,Sarah Miller,sarah.miller491@yahoo.com,Africa,Female,Basic,German,Night,Corporate
+REQ112,Jessica Hernandez,jessica.hernandez937@yahoo.com,Australia,Other,Enterprise,German,Night,Individual
+REQ001,Barbara Garcia,barbara.garcia144@company.com,South America,Other,Basic,Chinese,Night,Individual
+REQ110,Thomas Rodriguez,thomas.rodriguez549@outlook.com,Australia,Female,Premium,English,Night,Small Business
+REQ028,Sarah Thomas,sarah.thomas58@company.com,Australia,Male,Basic,Spanish,Afternoon,Individual
+REQ036,Elizabeth Garcia,elizabeth.garcia578@yahoo.com,North America,Female,Basic,German,Afternoon,Corporate
+REQ117,Richard Wilson,richard.wilson191@company.com,South America,Other,Basic,Spanish,Morning,Small Business
+REQ043,Joseph Moore,joseph.moore569@hotmail.com,Asia,Female,Free,French,Evening,Small Business
+REQ008,John Williams,john.williams172@icloud.com,Australia,Male,Enterprise,Japanese,Afternoon,Small Business
+REQ122,Karen Miller,karen.miller491@outlook.com,Asia,Female,Premium,Japanese,Morning,Corporate
+REQ136,Jessica Jones,jessica.jones649@outlook.com,Australia,Other,Enterprise,Japanese,Morning,Corporate
+REQ034,Richard Hernandez,richard.hernandez989@icloud.com,South America,Other,Basic,French,Night,Corporate
+REQ045,Jessica Lopez,jessica.lopez488@gmail.com,Asia,Male,Basic,Spanish,Night,Individual
+REQ075,Karen Miller,karen.miller461@hotmail.com,Australia,Female,Premium,English,Evening,Small Business
+REQ007,Karen Garcia,karen.garcia834@company.com,Asia,Male,Premium,Japanese,Afternoon,Individual
+REQ071,Jessica Martinez,jessica.martinez144@yahoo.com,Europe,Female,Enterprise,French,Morning,Individual
+REQ113,Sarah Martinez,sarah.martinez173@icloud.com,Australia,Male,Enterprise,French,Morning,Individual
+REQ133,Linda Miller,linda.miller831@company.com,North America,Female,Premium,German,Morning,Corporate
+REQ101,John Jones,john.jones256@yahoo.com,South America,Other,Free,Japanese,Morning,Corporate
+REQ056,Barbara Williams,barbara.williams815@hotmail.com,Australia,Male,Enterprise,German,Morning,Individual
+REQ054,John Martinez,john.martinez163@outlook.com,Africa,Other,Basic,Chinese,Night,Individual
+REQ042,David Brown,david.brown881@icloud.com,Asia,Female,Basic,German,Night,Individual
+REQ024,Patricia Jones,patricia.jones771@gmail.com,Australia,Other,Premium,German,Night,Individual
+REQ006,Jessica Martin,jessica.martin73@hotmail.com,Africa,Female,Free,German,Night,Individual
+REQ078,Sarah Moore,sarah.moore631@yahoo.com,South America,Other,Free,English,Evening,Individual
+REQ087,James Jones,james.jones719@gmail.com,Africa,Female,Free,German,Evening,Small Business
+REQ033,Charles Garcia,charles.garcia377@yahoo.com,Europe,Female,Premium,Japanese,Evening,Individual
+REQ073,Charles Lopez,charles.lopez123@hotmail.com,Asia,Male,Enterprise,Spanish,Afternoon,Individual
+REQ022,Susan Smith,susan.smith239@hotmail.com,Australia,Female,Enterprise,English,Afternoon,Individual
+REQ050,Charles Jackson,charles.jackson64@icloud.com,Asia,Male,Basic,French,Afternoon,Small Business
+REQ135,Joseph Rodriguez,joseph.rodriguez873@gmail.com,Africa,Female,Enterprise,Spanish,Morning,Individual
+REQ019,John Brown,john.brown13@gmail.com,North America,Other,Enterprise,Spanish,Night,Small Business
+REQ068,James Gonzalez,james.gonzalez700@icloud.com,Australia,Other,Basic,German,Afternoon,Individual
+REQ146,Sarah Smith,sarah.smith392@company.com,Europe,Female,Basic,Japanese,Afternoon,Corporate
+REQ126,Mary Davis,mary.davis590@icloud.com,North America,Other,Premium,English,Morning,Corporate
+REQ086,Linda Smith,linda.smith540@icloud.com,North America,Other,Basic,French,Evening,Individual
+REQ072,Susan Thomas,susan.thomas665@outlook.com,Africa,Female,Basic,Spanish,Morning,Individual
+REQ012,David Williams,david.williams244@outlook.com,Africa,Female,Premium,French,Night,Small Business
+REQ032,Charles Davis,charles.davis167@icloud.com,Asia,Female,Basic,Chinese,Night,Individual
+REQ020,Patricia Hernandez,patricia.hernandez211@yahoo.com,North America,Other,Enterprise,Spanish,Evening,Small Business
+REQ089,Patricia Martinez,patricia.martinez804@icloud.com,Asia,Female,Free,Chinese,Night,Individual
+REQ102,Sarah Johnson,sarah.johnson861@icloud.com,South America,Other,Free,Spanish,Afternoon,Individual
+REQ118,Susan Williams,susan.williams700@icloud.com,Australia,Other,Premium,Chinese,Morning,Corporate
+REQ065,Patricia Martinez,patricia.martinez889@hotmail.com,Asia,Male,Enterprise,French,Evening,Small Business
+REQ052,Patricia Davis,patricia.davis138@outlook.com,Europe,Female,Enterprise,Spanish,Morning,Individual
+REQ066,Michael Johnson,michael.johnson256@gmail.com,Africa,Other,Free,Japanese,Morning,Individual
+REQ079,Richard Johnson,richard.johnson167@hotmail.com,Africa,Female,Basic,German,Evening,Small Business
+REQ120,Elizabeth Taylor,elizabeth.taylor845@hotmail.com,South America,Female,Premium,English,Night,Corporate
+REQ013,John Smith,john.smith672@icloud.com,Africa,Other,Enterprise,Japanese,Evening,Individual
+REQ150,David Williams,david.williams228@outlook.com,South America,Male,Enterprise,Chinese,Evening,Individual
+REQ080,John Jones,john.jones206@outlook.com,Africa,Female,Free,German,Night,Small Business
+REQ017,Jessica Gonzalez,jessica.gonzalez5@gmail.com,Africa,Male,Basic,French,Night,Corporate
+REQ037,Thomas Hernandez,thomas.hernandez445@company.com,Europe,Male,Basic,English,Morning,Corporate
+REQ106,James Johnson,james.johnson707@gmail.com,Africa,Other,Free,English,Evening,Individual
+REQ085,Jessica Miller,jessica.miller624@yahoo.com,Australia,Male,Enterprise,English,Morning,Corporate
+REQ124,Linda Anderson,linda.anderson304@outlook.com,Africa,Male,Free,English,Night,Small Business
+REQ147,William Gonzalez,william.gonzalez707@icloud.com,Australia,Other,Enterprise,German,Morning,Small Business
+REQ081,David Smith,david.smith722@company.com,South America,Other,Enterprise,German,Evening,Small Business
+REQ148,William Johnson,william.johnson520@yahoo.com,South America,Male,Enterprise,Chinese,Afternoon,Small Business
+REQ059,Barbara Johnson,barbara.johnson837@yahoo.com,North America,Other,Basic,German,Afternoon,Individual
+REQ139,William Martin,william.martin201@yahoo.com,North America,Other,Free,Chinese,Night,Small Business
+REQ060,Thomas Garcia,thomas.garcia709@hotmail.com,South America,Other,Basic,French,Evening,Corporate
+REQ093,Michael Miller,michael.miller215@hotmail.com,Australia,Other,Enterprise,English,Morning,Small Business
+REQ074,Jennifer Martinez,jennifer.martinez700@outlook.com,North America,Other,Basic,Japanese,Evening,Individual
+REQ119,James Rodriguez,james.rodriguez208@hotmail.com,South America,Other,Free,French,Morning,Small Business
+REQ010,John Johnson,john.johnson158@outlook.com,Australia,Male,Free,French,Evening,Individual
