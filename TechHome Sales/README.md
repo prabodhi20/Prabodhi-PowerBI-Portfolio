@@ -51,7 +51,7 @@ The dashboard enables management to monitor sales performance, profitability, cu
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 The dashboard provides a centralized view of sales performance and profitability using interactive KPIs and business visualizations.
 
@@ -71,12 +71,6 @@ The dashboard provides a centralized view of sales performance and profitability
 - Profit by Product Sub-Category
 - Discount Impact on Profit Margin % vs Total Profit
 - Sales by Customer Segment
-
-<img width="912" height="517" alt="TechHome year 2014_corporate Segment_region Central_profit status Loss" src="https://github.com/user-attachments/assets/a5a92152-4d4d-432f-bfc7-c7c5c468bcb5" />
-
-<img width="911" height="524" alt="TechHome year 2016_Qtr2_May Month_profit" src="https://github.com/user-attachments/assets/2b4bd018-61b2-4235-87fb-386040497614" />
-
-<img width="904" height="513" alt="TechHome_profit Status Loss" src="https://github.com/user-attachments/assets/ef54ff55-d0aa-4970-8f24-01a44f1be6a5" />
 
 ---
 
